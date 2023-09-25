@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-# 💫About Me :
+# 💫About Me : A beginner in Data Analysis
 🌱 I'm currently learning Data Science
-
 📫 You can get in touch with me through email: minhtrild1103@gmail.com
 
 # 💻Tech Stack
