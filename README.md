@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫About Me : Junior Data Analyst
+# 💫About Me : Data Analyst
 🌱 I'm currently learning Data Science
 
 📫 You can get in touch with me by email: minhtrild1103@gmail.com
